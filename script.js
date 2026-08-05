@@ -9,7 +9,7 @@ btn.disabled = true;
 
 setTimeout(function(){
 
-window.location.href = "files/ReytexInjector.apk";
+window.location.href = "https://raw.githubusercontent.com/reynaldtan822-svg/ReytexFile/main/Reytex%20Injector.apk";
 
 status.innerHTML = "Download started.";
 
