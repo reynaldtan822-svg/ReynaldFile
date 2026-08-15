@@ -1,1 +1,1 @@
-# ReynaldFile, Jesus Christ is King
+# ReynaldFile, Jesus Christ is King of Kings
