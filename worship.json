@@ -1,9 +1,34 @@
-{
-  "title": "PRAISE",
-  "artist": "elevationworship",
-  "category": "Worship",
-  "thumbnail": "https://example.com/thumbnail.jpg",
-  "url": "https://youtu.be/raFnjGVkHe8?si=lTuhhM2t5ZHWgLfT",
-  "verse": "Awit 95:6",
-  "verseText": "This worship is not about on music ito ay pagpupuri natin sa Panginoon"
+
+  "enabled": true,
+  "title": "Worship Songs",
+  "subtitle": "Maglaan ng sandali upang sumamba at magpasalamat sa Diyos.",
+  "videos": [
+    {
+      "title": "Worship Video",
+      "artist": "YouTube",
+      "category": "Worship",
+      "thumbnail": "https://img.youtube.com/vi/raFnjGVkHe8/hqdefault.jpg",
+      "url": "https://youtu.be/raFnjGVkHe8?si=lTuhhM2t5ZHWgLfT",
+      "verse": "Awit 95:6",
+      "verseText": "Halikayo, tayo'y yumuko at sumamba; tayo'y lumuhod sa harap ng Panginoon na ating Maylalang."
+    },
+    {
+      "title": "Halimbawa Praise Song",
+      "artist": "Ilagay ang Artist / Channel",
+      "category": "Praise",
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_2",
+      "verse": "Awit 100:1",
+      "verseText": "Umawit kayo nang may kagalakan sa Panginoon, kayong lahat ng mga tao sa buong mundo."
+    },
+    {
+      "title": "Halimbawa Quiet Worship",
+      "artist": "Ilagay ang Artist / Channel",
+      "category": "Quiet Worship",
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_3",
+      "verse": "Awit 46:10",
+      "verseText": "Tumigil kayo at kilalanin ninyo na ako ang Diyos."
+    }
+  ]
 }
