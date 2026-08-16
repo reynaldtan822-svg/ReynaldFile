@@ -12,15 +12,15 @@
       "verse": "Awit 95:6",
       "verseText": "Halikayo, tayo'y yumuko at sumamba; tayo'y lumuhod sa harap ng Panginoon na ating Maylalang."
     },
-    {
-      "title": "Live Every Sunday ",
-      "artist": "Stephen Prado / JIA CMNV",
-      "category": "Praise",
-      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg",
-      "url": "https://www.youtube.com/live/TdLE19wcpeQ?si=rJ9v7E53RfY0ZD7c",
-      "verse": "Roma 10:17",
-      "verseText": "Kaya't ang pananampalataya ay nanggagaling sa pakikinig, at ang pakikinig ay sa pamamagitan ng salita ni Cristo.”
-    },
+{
+  "title": "Live Every Sunday",
+  "artist": "Stephen Prado / JIA CMNV",
+  "category": "Praise",
+  "thumbnail": "https://img.youtube.com/vi/TdLE19wcpeQ/hqdefault.jpg",
+  "url": "https://www.youtube.com/live/TdLE19wcpeQ",
+  "verse": "Roma 10:17",
+  "verseText": "Kaya't ang pananampalataya ay nanggagaling sa pakikinig, at ang pakikinig ay sa pamamagitan ng salita ni Cristo."
+},
     {
       "title": "Halimbawa Quiet Worship",
       "artist": "Ilagay ang Artist / Channel",
